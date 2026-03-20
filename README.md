@@ -4,7 +4,7 @@
 
 Sou formado tecnicamente em Desenvolvimento de Sistemas pela ETEC Prof. Basilides de Godoy e atualmente curso Engenharia de Software. Busco uma oportunidade como estagiário na área de tecnologia, onde possa aplicar meus conhecimentos iniciais em desenvolvimento de sistemas e redes de computadores, ao mesmo tempo em que continuo aprendendo e evoluindo. Tenho perfil proativo, muita vontade de aprender, facilidade em absorver novos conteúdos e grande comprometimento com meu crescimento profissional e com os objetivos da equipe.
 
----
+#
 
 ## 🤖 Linguagens e Tecnologias
 <img 
