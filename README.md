@@ -59,6 +59,6 @@ Sou formado tecnicamente em Desenvolvimento de Sistemas pela ETEC Prof. Basilide
 </br>
 </br>
 
-## 📊 Estatísticas
+<!-- ## 📊 Estatísticas
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=Giovani-Sousa&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br">
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Sousa&theme=tokyonight&layout=compact&custom_title=Tecnologias">
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Sousa&theme=tokyonight&layout=compact&custom_title=Tecnologias"> -->
