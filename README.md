@@ -17,6 +17,14 @@ Sou formado tecnicamente em Desenvolvimento de Sistemas pela ETEC Prof. Basilide
 />
 <img 
     align="left"
+    alt="Spring"
+    title="Spring"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left"
     alt="CSharp"
     title="CSharp"
     width="30px"
@@ -55,7 +63,6 @@ Sou formado tecnicamente em Desenvolvimento de Sistemas pela ETEC Prof. Basilide
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
  />
-
 </br>
 </br>
 
